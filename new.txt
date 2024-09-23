@@ -1,0 +1,4 @@
+Good morning
+collaboration and remote repoitories
+fetch the latest changes from a remote reository
+and rebase your local branch
